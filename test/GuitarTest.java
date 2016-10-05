@@ -3,7 +3,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 /**
- * Created by t00137482 on 05/10/2016.
+ * Created by Gearoid Kearney on 05/10/2016.
  */
 public class GuitarTest {
     @Test
